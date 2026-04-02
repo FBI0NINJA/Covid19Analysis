@@ -127,3 +127,9 @@ on cdeath.location=cvaccination.location
 AND cdeath.date=cvaccination.date
 WHERE cdeath.continent IS NOT NULL
 
+
+--DELETE FROM Covid
+--DELETE FROM Covid
+--DELETE FROM Covid
+
+
